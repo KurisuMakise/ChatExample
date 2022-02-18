@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272204847885",
+    "project_id": "chatexample-3001b",
+    "storage_bucket": "chatexample-3001b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272204847885:android:eb5682eb7125adce626e44",
+        "android_client_info": {
+          "package_name": "com.slavapozdniakov.chatexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272204847885-ji082gmv6g8b1dhg3qbkf9j5v022gpi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4AK9t0Z6M557vruL8gyaXJaXKLT4Uafs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272204847885-ji082gmv6g8b1dhg3qbkf9j5v022gpi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
