@@ -7,7 +7,7 @@
     android:layout_marginTop="32dp"
     android:paddingStart="32dp"
     android:paddingEnd="32dp"
-    tools:context=".login.SignInActivity">
+    tools:context=".login.LoginSignUpActivity">
 
     <ImageView
         android:id="@+id/imageView"
@@ -63,7 +63,7 @@
                 android:gravity="center">
 
                 <com.google.android.material.textfield.TextInputEditText
-                    android:id="@+id/etConfirmPasswordSU"
+                    android:id="@+id/etEMailSU"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="32dp"
@@ -109,6 +109,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
+                android:onClick="btnSignUpClick"
                 android:text="Sign Up" />
 
         </LinearLayout>

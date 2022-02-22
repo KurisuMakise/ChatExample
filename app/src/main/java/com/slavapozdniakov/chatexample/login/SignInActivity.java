@@ -58,6 +58,11 @@ public class SignInActivity extends AppCompatActivity {
 
     }
 
+    // Méthodes pour la gestion des boutons
+    public void btnSignUpActivity(View view){
+        startActivity(new Intent(SignInActivity.this,LoginSignUpActivity.class));
+    }
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

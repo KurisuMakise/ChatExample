@@ -14,5 +14,9 @@
     <string name="sign_up">Sign Up</string>
     <string name="don_t_hav_account">Don\'t hav account :</string>
     <string name="sign_in_failed">Login failed with : %1$s</string>
+    <string name="login_entrer_correct_email">enter correct email</string>
+    <string name="login_password_mismatch">password mismatch</string>
+    <string name="failed_signup">Sign Up failed : %1$s</string>
+    <string name="nameUpdateFailed">Name update failed : %1$s</string>
     <!-- %1$s renvoie la première exception rencontrée -->
 </resources>
